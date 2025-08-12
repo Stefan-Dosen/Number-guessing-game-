@@ -21,3 +21,5 @@ A simple Python command-line game where you try to guess a randomly chosen numbe
 
 ```bash
 python number_guessing_game.py
+```
+This an excersise from roadmap.sh: https://roadmap.sh/projects/number-guessing-game
